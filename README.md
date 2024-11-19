@@ -62,12 +62,13 @@ python create_hidden_service_and_server.py
 
 ## **How to Use**
 
-###**Step 0 : Configure the Torr browser**
+### **Step 0 : Configure the Tor browser**
 
-When you execute the program run_stealthmail.py , inside the main menu enter 0. A prompt will appear asking you to enter the path of the Torr.exe file ..
+When you execute the program run_stealthmail.py , inside the main menu enter 0. A prompt will appear asking you to enter the path of the Tor.exe file .
 
-For Linux/Macos systems : Simply enter Torr
-For Windows : Paste the path of Torr.exe file from your Torr browser folder . 
+For Linux/Macos systems : Simply enter Tor
+
+For Windows : Paste the path of Torr.exe file from your Tor browser folder . 
 
 A message will appear confirming the configuration . If path entered correctly there won’t be further display of the message . 
 
@@ -84,7 +85,7 @@ python create_hidden_service_and_server.py
 ```
 
 ### **Step 3: Start Chat**
-- Open the `run_chat_client.py` script to initiate a chat session.
+- Run the file 'run_stealthmail.py' and choose option 3 in the option list to initiate the chat session
 - Share your public key (or QR code) with others to begin secure communication.
 
 ---
